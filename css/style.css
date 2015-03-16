@@ -13,6 +13,11 @@
   padding-right: 5%;
 }
 
+.education-entry h3, .work-entry h3, .project-entry h3 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 h1 {
   font-size: 40px;
   color: #F5A623;
